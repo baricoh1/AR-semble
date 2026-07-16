@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "13303319008",
+    "firebase_url": "https://arproject-ee2e8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "arproject-ee2e8",
+    "storage_bucket": "arproject-ee2e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13303319008:android:10c8bf3d59a85aaaf30385",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ARsemble"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAycjnfmC7gdkJGla49cDDhcdBoPGiJW5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

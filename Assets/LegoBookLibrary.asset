@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: LegoBookLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5290103727530307087
+  m_GuidHigh: 3159944506576370079
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5444438129217266355
+      m_GuidHigh: 2020304485003380371
+    m_SerializedTextureGuid:
+      m_GuidLow: 6761086056513627125
+      m_GuidHigh: 2930239776536216489
+    m_Size: {x: 0.21, y: 0.27909425}
+    m_SpecifySize: 1
+    m_Name: Page1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4880821470339377447
+      m_GuidHigh: 1111538826571519422
+    m_SerializedTextureGuid:
+      m_GuidLow: 13088756218811752864
+      m_GuidHigh: 12159191823495287785
+    m_Size: {x: 0.21, y: 0.28011456}
+    m_SpecifySize: 1
+    m_Name: Page2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5659851529315499865
+      m_GuidHigh: 5730430861864331401
+    m_SerializedTextureGuid:
+      m_GuidLow: 7936698314379969015
+      m_GuidHigh: 209745319703713899
+    m_Size: {x: 0.21, y: 0.28034312}
+    m_SpecifySize: 1
+    m_Name: Page3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5528506168330667185
+      m_GuidHigh: 4638625774760617115
+    m_SerializedTextureGuid:
+      m_GuidLow: 17299554838950803891
+      m_GuidHigh: 5287477000902308793
+    m_Size: {x: 0.21, y: 0.2795122}
+    m_SpecifySize: 1
+    m_Name: Page4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5559603768732918294
+      m_GuidHigh: 17653869927313526435
+    m_SerializedTextureGuid:
+      m_GuidLow: 3446425698438556920
+      m_GuidHigh: 12802299256125239291
+    m_Size: {x: 0.21, y: 0.28}
+    m_SpecifySize: 1
+    m_Name: Page5
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4688094057238657135
+      m_GuidHigh: 11402861331021635969
+    m_SerializedTextureGuid:
+      m_GuidLow: 17159850638076070884
+      m_GuidHigh: 12655870610416695753
+    m_Size: {x: 0.21, y: 0.27899998}
+    m_SpecifySize: 1
+    m_Name: Page6
+    m_Texture: {fileID: 0}
