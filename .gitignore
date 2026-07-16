@@ -104,3 +104,21 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+
+
+# =======================================================
+# Custom Ignore Rules: Large Media Assets (Use with caution)
+# =======================================================
+/[Aa]ssets/Animations/
+/[Aa]ssets/Animations.meta
+
+/[Aa]ssets/Images/
+/[Aa]ssets/Images.meta
+
+/[Aa]ssets/Models/
+/[Aa]ssets/Models.meta
+
+
+/[Aa]ssets/GUIPackCartoon/
+/[Aa]ssets/GUIPackCartoon.meta
